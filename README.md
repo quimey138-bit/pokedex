@@ -1,1 +1,1 @@
-# pokedex
+# GameStore
